@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This C# project is part of Lesson 2 (CLG C# course), and aims to use variables, interpolated strings and a number of functions to build a simple Mad Libs game.
+This C# project is part of Lesson 2 (CLG C# course), and aims to use variables, interpolated strings and other concepts to build a simple Mad Libs game.
 
 ## How to run this project
 
@@ -16,7 +16,7 @@ Open Program.cs in Visual Studio Code. Use the commands
 
 to initialise the project, and follow the prompts to play along.
 
-## Functions and concepts this project uses
+## Concepts this project uses
 
 - Console.WriteLine()
 - Console.ReadLine()
